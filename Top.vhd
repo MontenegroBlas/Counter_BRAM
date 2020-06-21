@@ -59,7 +59,7 @@ signal band3b : std_logic;
 begin
 
 --RAMA1<=RAMA+"0000000000000001";
-RAMB1<=RAMB+"0000000000000001";
+--RAMB1<=RAMB+"0000000000000001";
 
 process(clk)
 
